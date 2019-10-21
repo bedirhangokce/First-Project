@@ -1,7 +1,7 @@
 # First-Project
 ##first
 
-*kalın* </br>
+*kalın*
 *ince*
 
 `hello`
